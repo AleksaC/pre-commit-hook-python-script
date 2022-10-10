@@ -1,0 +1,5 @@
+- id: python-script
+  name: <enter name of the script>
+  description: Run python scripts as pre-commit hooks
+  entry: pre_commit_hook_python_script
+  language: python
